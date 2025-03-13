@@ -25,3 +25,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
 </span>
+
+<div align="center">
+<h2 Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=AlejandroG2105&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlejandroG2105)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroG2105&theme=material-palenight)](https://github.com/AlejandroG2105)
+</div>
